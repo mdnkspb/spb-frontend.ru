@@ -1,2 +1,0 @@
-webpackJsonp([0x232df62631fe1000],{"./node_modules/json-loader/index.js!./.cache/json/person-c-2-f-lhhd-e-rf-s-qig-0-g-ku-ag-w-8-g.json":function(t,n){t.exports={pathContext:{data:{id:"c2fLhhdERfSQig0gKUAgW8G",name:"Дмитрий",lastname:"Локтев",position:null,vk:null,telegram:null,twitter:"https://twitter.com/potomushto",slack:null,photo:null,company:null,podcasts:[{title:"#21 — «RN vs PWA»",number:21},{title:"#22 — «Как стать независимым разработчиком»",number:22}]},id:5}}}});
-//# sourceMappingURL=path---person-c-2-f-lhhd-e-rf-s-qig-0-g-ku-ag-w-8-g-305e237098a946bda54f.js.map

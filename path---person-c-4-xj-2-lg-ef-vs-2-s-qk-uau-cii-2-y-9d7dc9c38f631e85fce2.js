@@ -1,2 +1,0 @@
-webpackJsonp([0x43a61770692e8800],{"./node_modules/json-loader/index.js!./.cache/json/person-c-4-xj-2-lg-ef-vs-2-s-qk-uau-cii-2-y.json":function(t,n){t.exports={pathContext:{data:{id:"c4Xj2LgEfVS2sQKUauCii2y",name:"Михаил",lastname:"Полубояринов",position:null,vk:null,telegram:null,twitter:"https://twitter.com/mike1pol",slack:null,photo:null,company:null,podcasts:[{title:"#19 — «Пресвятой JavaScript»",number:19}]},id:8}}}});
-//# sourceMappingURL=path---person-c-4-xj-2-lg-ef-vs-2-s-qk-uau-cii-2-y-9d7dc9c38f631e85fce2.js.map

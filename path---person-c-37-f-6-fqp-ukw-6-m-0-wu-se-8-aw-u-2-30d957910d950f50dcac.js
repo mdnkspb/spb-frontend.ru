@@ -1,2 +1,0 @@
-webpackJsonp([0xe77cd235fbf18000],{"./node_modules/json-loader/index.js!./.cache/json/person-c-37-f-6-fqp-ukw-6-m-0-wu-se-8-aw-u-2.json":function(t,n){t.exports={pathContext:{data:{id:"c37F6FQPUkw6m0wuSe8awU2",name:"Вячеслав",lastname:"Шебанов",position:null,vk:null,telegram:null,twitter:"https://twitter.com/thought_sync",slack:"termina1",photo:null,company:null,podcasts:[{title:" #13 — «ООП — это обман»",number:13}]},id:16}}}});
-//# sourceMappingURL=path---person-c-37-f-6-fqp-ukw-6-m-0-wu-se-8-aw-u-2-30d957910d950f50dcac.js.map

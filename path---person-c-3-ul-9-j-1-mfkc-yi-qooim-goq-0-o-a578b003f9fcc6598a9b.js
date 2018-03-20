@@ -1,2 +1,0 @@
-webpackJsonp([0xa54338ee27256000],{"./node_modules/json-loader/index.js!./.cache/json/person-c-3-ul-9-j-1-mfkc-yi-qooim-goq-0-o.json":function(o,l){o.exports={pathContext:{data:{id:"c3ul9j1mfkcYiQooimGOQ0o",name:"Виталий",lastname:"Ризо",position:null,vk:null,telegram:null,twitter:"https://twitter.com/KillBillsbor",slack:"killbill",photo:null,company:"Амплифер",podcasts:[{title:"#5 — «Фриланс vs офис, о работе и мотивации»",number:5}]},id:25}}}});
-//# sourceMappingURL=path---person-c-3-ul-9-j-1-mfkc-yi-qooim-goq-0-o-a578b003f9fcc6598a9b.js.map

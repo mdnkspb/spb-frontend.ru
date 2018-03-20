@@ -1,2 +1,0 @@
-webpackJsonp([0x4b58310fb9979c00],{"./node_modules/json-loader/index.js!./.cache/json/person-c-2-oh-k-nmofx-6-wc-uyw-asy-uyc-w.json":function(n,l){n.exports={pathContext:{data:{id:"c2OhKNmofx6WCUywASYUycW",name:"Константин",lastname:"Ефимов",position:null,vk:null,telegram:null,twitter:null,slack:null,photo:null,company:null,podcasts:[{title:"#16 — «К нам зашел бекенд...»",number:16}]},id:12}}}});
-//# sourceMappingURL=path---person-c-2-oh-k-nmofx-6-wc-uyw-asy-uyc-w-2e2e1aeb32f7f8791892.js.map

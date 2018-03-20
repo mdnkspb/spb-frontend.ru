@@ -1,2 +1,0 @@
-webpackJsonp([0x644e081e1ed57c00],{"./node_modules/json-loader/index.js!./.cache/json/person-c-28-bm-76-v-lkk-yc-o-0-u-eo-6-sa-u-6.json":function(n,l){n.exports={pathContext:{data:{id:"c28bm76VLkkYcO0UEo6SaU6",name:"Тим",lastname:"Маринин",position:null,vk:null,telegram:null,twitter:null,slack:null,photo:null,company:null,podcasts:[{title:"#6 — «Тим Маринин и мышки на тёрке»",number:6}]},id:24}}}});
-//# sourceMappingURL=path---person-c-28-bm-76-v-lkk-yc-o-0-u-eo-6-sa-u-6-7b6faf677bd84962b7b1.js.map

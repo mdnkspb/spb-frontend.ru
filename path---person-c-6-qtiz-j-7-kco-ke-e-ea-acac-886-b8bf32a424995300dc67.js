@@ -1,2 +1,0 @@
-webpackJsonp([0xa8b39f7a75dbb800],{"./node_modules/json-loader/index.js!./.cache/json/person-c-6-qtiz-j-7-kco-ke-e-ea-acac-886.json":function(e,o){e.exports={pathContext:{data:{id:"c6qtizJ7KcoKeEEaACAC886",name:"Сергей",lastname:"Попов",position:null,vk:null,telegram:null,twitter:"https://twitter.com/sergeytovarov",slack:"sergeypopov",photo:null,company:null,podcasts:[{title:"#14 — «Ментор успеха залог твоего»",number:14}]},id:15}}}});
-//# sourceMappingURL=path---person-c-6-qtiz-j-7-kco-ke-e-ea-acac-886-b8bf32a424995300dc67.js.map

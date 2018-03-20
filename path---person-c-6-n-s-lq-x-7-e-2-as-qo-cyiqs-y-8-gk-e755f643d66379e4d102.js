@@ -1,2 +1,0 @@
-webpackJsonp([0x455aba426b982800],{"./node_modules/json-loader/index.js!./.cache/json/person-c-6-n-s-lq-x-7-e-2-as-qo-cyiqs-y-8-gk.json":function(n,o){n.exports={pathContext:{data:{id:"c6nSLqX7e2AsQoCyiqsY8gk",name:"Всеволод",lastname:"Родионов",position:null,vk:null,telegram:null,twitter:null,slack:"jabher",photo:null,company:null,podcasts:[{title:"#8 — «Что такое FrontOps»",number:8}]},id:22}}}});
-//# sourceMappingURL=path---person-c-6-n-s-lq-x-7-e-2-as-qo-cyiqs-y-8-gk-e755f643d66379e4d102.js.map

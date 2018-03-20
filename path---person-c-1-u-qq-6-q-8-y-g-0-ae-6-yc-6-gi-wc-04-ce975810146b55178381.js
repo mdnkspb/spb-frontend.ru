@@ -1,2 +1,0 @@
-webpackJsonp([0x451ec45ec496f000],{"./node_modules/json-loader/index.js!./.cache/json/person-c-1-u-qq-6-q-8-y-g-0-ae-6-yc-6-gi-wc-04.json":function(e,n){e.exports={pathContext:{data:{id:"c1UQq6q8yG0Ae6YC6GIWc04",name:"Константин",lastname:"Рыжов",position:null,vk:null,telegram:null,twitter:null,slack:"t.doomheim",photo:null,company:null,podcasts:[{title:"#7 — «Все фронтендеры попадают в Питер»",number:7}]},id:23}}}});
-//# sourceMappingURL=path---person-c-1-u-qq-6-q-8-y-g-0-ae-6-yc-6-gi-wc-04-ce975810146b55178381.js.map

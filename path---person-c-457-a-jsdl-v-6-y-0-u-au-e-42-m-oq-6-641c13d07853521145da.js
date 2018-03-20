@@ -1,2 +1,0 @@
-webpackJsonp([0xf60c8155750cc000],{"./node_modules/json-loader/index.js!./.cache/json/person-c-457-a-jsdl-v-6-y-0-u-au-e-42-m-oq-6.json":function(n,t){n.exports={pathContext:{data:{id:"c457aJsdlV6Y0uAuE42mOq6",name:"Богдан",lastname:"Чадкин",position:null,vk:null,telegram:null,twitter:"https://twitter.com/IAmTrySound",slack:"trysound",photo:null,company:null,podcasts:[{title:"#20 — «Поймать опенсорсера»",number:20}]},id:7}}}});
-//# sourceMappingURL=path---person-c-457-a-jsdl-v-6-y-0-u-au-e-42-m-oq-6-641c13d07853521145da.js.map
