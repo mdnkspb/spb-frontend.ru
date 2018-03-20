@@ -1,0 +1,2 @@
+webpackJsonp([0x7a17572b3c923400],{"./node_modules/json-loader/index.js!./.cache/json/person-c-4-vt-1-ueby-qg-sm-6-c-2-qy-sm-ymq.json":function(t,n){t.exports={pathContext:{data:{id:"c4Vt1UebyQgSm6c2qySmYMQ",name:"Дмитрий",lastname:"Назаров",position:null,vk:null,telegram:null,twitter:"https://twitter.com/nazarov_tech",slack:null,photo:null,company:null,podcasts:[{title:"#18 — «Ребята, давайте жить дружно»",number:18}]},id:10}}}});
+//# sourceMappingURL=path---person-c-4-vt-1-ueby-qg-sm-6-c-2-qy-sm-ymq-46b5b308bf0be906f92d.js.map

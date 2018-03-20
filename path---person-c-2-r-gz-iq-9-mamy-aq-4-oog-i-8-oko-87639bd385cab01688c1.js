@@ -1,0 +1,2 @@
+webpackJsonp([0x8b3e3bb843786000],{"./node_modules/json-loader/index.js!./.cache/json/person-c-2-r-gz-iq-9-mamy-aq-4-oog-i-8-oko.json":function(o,n){o.exports={pathContext:{data:{id:"c2RGzIQ9MAMYAq4OogI8OKO",name:"Сергей",lastname:"Сова",position:null,vk:null,telegram:null,twitter:"https://twitter.com/sergeysovacom",slack:null,photo:null,company:null,podcasts:[{title:"#11 — «Дизайн-системы и ui-киты»",number:11}]},id:20}}}});
+//# sourceMappingURL=path---person-c-2-r-gz-iq-9-mamy-aq-4-oog-i-8-oko-87639bd385cab01688c1.js.map

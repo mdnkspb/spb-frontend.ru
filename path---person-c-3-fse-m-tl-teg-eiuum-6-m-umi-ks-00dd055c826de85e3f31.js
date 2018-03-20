@@ -1,0 +1,2 @@
+webpackJsonp([0x28f512bf7bac2800],{"./node_modules/json-loader/index.js!./.cache/json/person-c-3-fse-m-tl-teg-eiuum-6-m-umi-ks.json":function(t,e){t.exports={pathContext:{data:{id:"c3fseMTlTegEiuum6mUmiKS",name:"Дмитрий",lastname:"Махнев",position:null,vk:null,telegram:null,twitter:"https://twitter.com/DmitryMakhnev",slack:null,photo:null,company:null,podcasts:[{title:" #25 — «Те самые Java-фронтендеры»",number:25}]},id:0}}}});
+//# sourceMappingURL=path---person-c-3-fse-m-tl-teg-eiuum-6-m-umi-ks-00dd055c826de85e3f31.js.map

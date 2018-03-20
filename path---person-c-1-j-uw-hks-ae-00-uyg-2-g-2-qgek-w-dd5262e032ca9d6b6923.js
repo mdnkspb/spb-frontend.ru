@@ -1,0 +1,2 @@
+webpackJsonp([0xa8703b0aa291c800],{"./node_modules/json-loader/index.js!./.cache/json/person-c-1-j-uw-hks-ae-00-uyg-2-g-2-qgek-w.json":function(t,e){t.exports={pathContext:{data:{id:"c1jUwHksAE00UYG2G2qgekW",name:"Сергей",lastname:"Рубанов",position:null,vk:null,telegram:null,twitter:"https://twitter.com/chicoxyzzy",slack:"chicoxyzzy",photo:null,company:null,podcasts:[{title:"#23 — «Afterparty»",number:23}]},id:3}}}});
+//# sourceMappingURL=path---person-c-1-j-uw-hks-ae-00-uyg-2-g-2-qgek-w-dd5262e032ca9d6b6923.js.map

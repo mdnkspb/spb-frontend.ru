@@ -1,0 +1,2 @@
+webpackJsonp([0x4178baa17d314c00],{"./node_modules/json-loader/index.js!./.cache/json/person-c-239-ipx-98-k-aw-ukke-8-m-sq-y-ak.json":function(n,e){n.exports={pathContext:{data:{id:"c239ipx98KAwUKKE8mSqYAk",name:"Алексей",lastname:"Золотых",position:null,vk:null,telegram:null,twitter:null,slack:null,photo:null,company:"Wrike",podcasts:[{title:"#17 — «Как выйти из вима?»",number:17}]},id:11}}}});
+//# sourceMappingURL=path---person-c-239-ipx-98-k-aw-ukke-8-m-sq-y-ak-ee4b7e7fb7b81535b611.js.map

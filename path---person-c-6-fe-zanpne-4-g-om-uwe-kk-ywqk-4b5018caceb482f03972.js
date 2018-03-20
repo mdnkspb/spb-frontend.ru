@@ -1,0 +1,2 @@
+webpackJsonp([0xbc39ed3a5cffb800],{"./node_modules/json-loader/index.js!./.cache/json/person-c-6-fe-zanpne-4-g-om-uwe-kk-ywqk.json":function(e,n){e.exports={pathContext:{data:{id:"c6feZANPNE4GOmUweKkYwqk",name:"Евгений",lastname:"Шкодин",position:null,vk:null,telegram:null,twitter:"https://twitter.com/iffjey",slack:"iffjey",photo:null,company:"Evil Martians",podcasts:[{title:"#15 — «Юные Бобби»",number:15}]},id:13}}}});
+//# sourceMappingURL=path---person-c-6-fe-zanpne-4-g-om-uwe-kk-ywqk-4b5018caceb482f03972.js.map

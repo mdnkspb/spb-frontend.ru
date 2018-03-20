@@ -1,0 +1,2 @@
+webpackJsonp([0xecff0eaf9437f80],{"./node_modules/json-loader/index.js!./.cache/json/person-c-1-zu-mynh-tqguic-4-y-6-gy-ysw-2.json":function(n,t){n.exports={pathContext:{data:{id:"c1ZuMYNHTqguic4Y6gyYSW2",name:"Евгений",lastname:"Гусев",position:null,vk:null,telegram:null,twitter:"https://twitter.com/bunopus",slack:"bunopus",photo:null,company:null,podcasts:[{title:"#19 — «Пресвятой JavaScript»",number:19}]},id:9}}}});
+//# sourceMappingURL=path---person-c-1-zu-mynh-tqguic-4-y-6-gy-ysw-2-e5b5cd3687b5347292cd.js.map
