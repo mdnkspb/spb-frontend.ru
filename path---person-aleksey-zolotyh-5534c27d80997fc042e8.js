@@ -1,2 +1,0 @@
-webpackJsonp([0x950bfd04b3a9b800],{"./node_modules/json-loader/index.js!./.cache/json/person-aleksey-zolotyh.json":function(e,a){e.exports={pathContext:{data:{id:"c239ipx98KAwUKKE8mSqYAk",name:"Алексей",lastname:"Золотых",position:null,vk:null,telegram:null,twitter:null,slack:null,photo:{file:{url:"//images.ctfassets.net/ej3wzulnf8dw/6PBiLFI3ugGmQwEk6A6m4q/97c63aca66cbef7e7816f803a5dacca5/MfJOV9g8p0Q.jpg"}},company:"Wrike",podcasts:[{title:"#17 — «Как выйти из вима?»",number:17}]},id:14}}}});
-//# sourceMappingURL=path---person-aleksey-zolotyh-5534c27d80997fc042e8.js.map
