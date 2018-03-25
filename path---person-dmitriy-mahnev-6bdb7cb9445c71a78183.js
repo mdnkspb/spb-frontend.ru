@@ -1,2 +1,0 @@
-webpackJsonp([0xb48a06058ba2],{432:function(t,e){t.exports={pathContext:{data:{id:"c3fseMTlTegEiuum6mUmiKS",name:"Дмитрий",lastname:"Махнев",position:null,vk:null,telegram:null,twitter:"https://twitter.com/DmitryMakhnev",slack:null,photo:{file:{url:"//images.ctfassets.net/ej3wzulnf8dw/56rD5fqttYOq4M8i0cqmGe/a9d0d50f1a38cc37fcf133eff701ed40/hr630ehheuaa0lv6ao58_400x400.png"}},company:null,podcasts:[{title:" #25 — «Те самые Java-фронтендеры»",number:25}],personId:"dmitriy-mahnev"},id:3}}}});
-//# sourceMappingURL=path---person-dmitriy-mahnev-6bdb7cb9445c71a78183.js.map
