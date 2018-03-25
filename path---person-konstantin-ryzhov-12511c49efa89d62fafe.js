@@ -1,2 +1,0 @@
-webpackJsonp([0x6fac9b3d0188],{438:function(n,t){n.exports={pathContext:{data:{id:"c1UQq6q8yG0Ae6YC6GIWc04",name:"Константин",lastname:"Рыжов",position:null,vk:null,telegram:null,twitter:null,slack:"t.doomheim",photo:{file:{url:"//images.ctfassets.net/ej3wzulnf8dw/5kV7M1LhS0yIoGMaqu2w2i/828f24ee32bc77988f1489f4ccf836b6/ieDnnVcoEmQ.jpg"}},company:null,podcasts:[{title:"#7 — «Все фронтендеры попадают в Питер»",number:7}],personId:"konstantin-ryzhov"},id:27}}}});
-//# sourceMappingURL=path---person-konstantin-ryzhov-12511c49efa89d62fafe.js.map
