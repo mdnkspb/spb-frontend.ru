@@ -1,2 +1,0 @@
-webpackJsonp([0xf5377ec1e0f4],{425:function(t,a){t.exports={pathContext:{data:{id:"c2I6UK8U7RCMw2Uqgo6osWU",name:"Алена",lastname:"Батицкая",position:null,vk:null,telegram:null,twitter:"https://twitter.com/ABatickaya",slack:"alenabat",photo:{file:{url:"//images.ctfassets.net/ej3wzulnf8dw/3afKsSJu9aiysSUYC4QEu2/8ff73030feb88e50cc831804e11ecf55/aRWtVguXRzE.jpg"}},company:null,podcasts:[{title:"#15 — «Юные Бобби»",number:15}],personId:"alena-batickaya"},id:15}}}});
-//# sourceMappingURL=path---person-alena-batickaya-1eb974435a5becf2b765.js.map
