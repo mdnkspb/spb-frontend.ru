@@ -1,0 +1,2 @@
+webpackJsonp([0xbc25efe05368],{451:function(l,e){l.exports={pathContext:{data:{id:"c3ul9j1mfkcYiQooimGOQ0o",name:"Виталий",lastname:"Ризо",position:null,vk:null,telegram:null,twitter:"KillBillsbor",slack:"killbill",photo:{file:{url:"//images.ctfassets.net/ej3wzulnf8dw/2AHzfBRDawyAYOq2i8myOq/38dedef111bbaeda371a58d6ffdb151b/4CwVJXNam9E.jpg"}},company:"Амплифер",podcasts:[{title:"#5 — «Фриланс vs офис, о работе и мотивации»",number:5}],personId:"vitaliy-rizo"},id:6}}}});
+//# sourceMappingURL=path---person-vitaliy-rizo-43087277372e5121f032.js.map
