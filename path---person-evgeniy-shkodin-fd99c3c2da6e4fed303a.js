@@ -1,2 +1,0 @@
-webpackJsonp([0xad48f495c505],{435:function(e,t){e.exports={pathContext:{data:{id:"c6feZANPNE4GOmUweKkYwqk",name:"Евгений",lastname:"Шкодин",position:null,vk:null,telegram:null,twitter:"https://twitter.com/iffjey",slack:"iffjey",photo:{file:{url:"//images.ctfassets.net/ej3wzulnf8dw/wwkVmqEXZICS4oig4uiSu/e577f4525a5282cea009e6a7850c815d/O2g8JQHy_400x400.jpg"}},company:"Evil Martians",podcasts:[{title:"#15 — «Юные Бобби»",number:15}],personId:"evgeniy-shkodin"},id:28}}}});
-//# sourceMappingURL=path---person-evgeniy-shkodin-fd99c3c2da6e4fed303a.js.map
