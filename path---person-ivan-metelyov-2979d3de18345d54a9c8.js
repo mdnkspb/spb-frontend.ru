@@ -1,2 +1,0 @@
-webpackJsonp([0x9366e927174f],{436:function(e,t){e.exports={pathContext:{data:{id:"c3TOVMGCftK282K8ceG02ci",name:"Иван",lastname:"Метелёв",position:null,vk:null,telegram:null,twitter:"https://twitter.com/from_anywhere",slack:null,photo:{file:{url:"//images.ctfassets.net/ej3wzulnf8dw/3ztsPNlpe0AqowcYI22aqo/f75e8110b3f51f24e4d7eb55d17da058/VJg7Y_nk_400x400.png"}},company:null,podcasts:[{title:" #25 — «Те самые Java-фронтендеры»",number:25}],personId:"ivan-metelyov"},id:6}}}});
-//# sourceMappingURL=path---person-ivan-metelyov-2979d3de18345d54a9c8.js.map
