@@ -1,0 +1,2 @@
+webpackJsonp([0x8e3b9496286d],{447:function(e,t){e.exports={pathContext:{data:{id:"c1jUwHksAE00UYG2G2qgekW",name:"Сергей",lastname:"Рубанов",position:null,vk:null,telegram:null,twitter:"https://twitter.com/chicoxyzzy",slack:"chicoxyzzy",photo:{file:{url:"//images.ctfassets.net/ej3wzulnf8dw/5iOMkYMseQcQAUMcQIo4W8/e70a431f0940838e0ba5b8c74507cee7/eteR4C4y_400x400.jpg"}},company:null,podcasts:[{title:"#23 — «Afterparty»",number:23}],personId:"sergey-rubanov"},id:9}}}});
+//# sourceMappingURL=path---person-sergey-rubanov-ed3ef3fa83f2615b6f99.js.map
