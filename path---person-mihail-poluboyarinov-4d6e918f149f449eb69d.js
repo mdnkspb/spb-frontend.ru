@@ -1,2 +1,0 @@
-webpackJsonp([0x743ff00b031e],{442:function(e,l){e.exports={pathContext:{data:{id:"c4Xj2LgEfVS2sQKUauCii2y",name:"Михаил",lastname:"Полубояринов",position:null,vk:null,telegram:null,twitter:"mike1pol",slack:null,photo:{file:{url:"//images.ctfassets.net/ej3wzulnf8dw/NEm2LdPSs8Um0OmEKOuc4/c7151e59675589240af30c2c1838830e/erDIgXnNz5o.jpg"}},company:null,podcasts:[{title:"#19 — «Пресвятой JavaScript»",number:19}],personId:"mihail-poluboyarinov"},id:1}}}});
-//# sourceMappingURL=path---person-mihail-poluboyarinov-4d6e918f149f449eb69d.js.map
