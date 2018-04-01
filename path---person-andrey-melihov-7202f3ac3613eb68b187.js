@@ -1,2 +1,0 @@
-webpackJsonp([23944267067143],{427:function(t,e){t.exports={pathContext:{data:{id:"c17h5rGa8b4W6KwgCSgi0a4",name:"Андрей",lastname:"Мелихов",position:null,vk:null,telegram:null,twitter:"https://twitter.com/amel_true",slack:"amel_true",photo:{file:{url:"//images.ctfassets.net/ej3wzulnf8dw/1ZfOpIMzKoe2sCI8Imcc8S/34b1507fa0ff9b8f9ed063652fc6870c/z_2b5133cf.jpg"}},company:null,podcasts:[{title:"#24 — «Знай свой Джаваскрипт»",number:24}],personId:"andrey-melihov"},id:29}}}});
-//# sourceMappingURL=path---person-andrey-melihov-7202f3ac3613eb68b187.js.map
