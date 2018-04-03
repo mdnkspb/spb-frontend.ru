@@ -1,2 +1,0 @@
-webpackJsonp([79976704493129],{438:function(n,t){n.exports={pathContext:{data:{id:"c2OhKNmofx6WCUywASYUycW",name:"Константин",lastname:"Ефимов",position:null,vk:null,telegram:null,twitter:null,slack:null,photo:{file:{url:"//images.ctfassets.net/ej3wzulnf8dw/4nMRoBRugw6s8qmQk68Ogu/019b7a14fa97906856a8a2b72ccfd8a3/rXutGf9uZE8.jpg"}},company:null,podcasts:[{title:"#16 — «К нам зашел бекенд...»",number:16}],personId:"konstantin-efimov"},id:27}}}});
-//# sourceMappingURL=path---person-konstantin-efimov-b11bc618be58486248d8.js.map
