@@ -1,2 +1,0 @@
-webpackJsonp([0xdccd3b719bf5],{439:function(e,l){e.exports={pathContext:{data:{id:"c1rLXrfso7KyCiWMcmwski",slug:"andrey-zaharchenko",name:"Андрей",lastname:"Захарченко",position:null,vk:null,telegram:null,twitter:null,slack:null,photo:{file:{url:"//images.ctfassets.net/ej3wzulnf8dw/1FFeIfIRhSOqgIKmeeSiuu/c05a34ae1ff8df98e3990a6012f89eb1/____________________.jpg"}},company:null,podcasts:null},id:1}}}});
-//# sourceMappingURL=path---persons-andrey-zaharchenko-5cd5fb633c4cd37670c8.js.map
