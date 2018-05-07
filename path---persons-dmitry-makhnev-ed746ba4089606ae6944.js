@@ -1,0 +1,2 @@
+webpackJsonp([7024413637153],{444:function(e,t){e.exports={pathContext:{data:{id:"c3fseMTlTegEiuum6mUmiKS",slug:"dmitry-makhnev",name:"Дмитрий",lastname:"Махнев",position:null,vk:null,telegram:null,twitter:"DmitryMakhnev",slack:null,photo:{file:{url:"//images.ctfassets.net/ej3wzulnf8dw/56rD5fqttYOq4M8i0cqmGe/a9d0d50f1a38cc37fcf133eff701ed40/hr630ehheuaa0lv6ao58_400x400.png"}},company:null,podcasts:[{title:" #25 — «Те самые Java-фронтендеры»",number:25}]},id:12}}}});
+//# sourceMappingURL=path---persons-dmitry-makhnev-ed746ba4089606ae6944.js.map

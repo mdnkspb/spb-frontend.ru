@@ -1,0 +1,2 @@
+webpackJsonp([0xff6929c40e8a],{460:function(e,t){e.exports={pathContext:{data:{id:"c2RGzIQ9MAMYAq4OogI8OKO",slug:"sergey-sova",name:"Сергей",lastname:"Сова",position:null,vk:null,telegram:null,twitter:"sergeysovacom",slack:null,photo:{file:{url:"//images.ctfassets.net/ej3wzulnf8dw/2T193AQMjK8eKQ2o4cUO8A/7fa4ba95564ece94a6bc9b0ce0eb61f9/LestaD_winter.jpg"}},company:null,podcasts:[{title:"#11 — «Дизайн-системы и ui-киты»",number:11}]},id:26}}}});
+//# sourceMappingURL=path---persons-sergey-sova-1e61616fff7b1da1d6be.js.map

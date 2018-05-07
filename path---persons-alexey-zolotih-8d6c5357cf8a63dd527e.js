@@ -1,0 +1,2 @@
+webpackJsonp([0x9788529c9175],{434:function(e,l){e.exports={pathContext:{data:{id:"c239ipx98KAwUKKE8mSqYAk",slug:"alexey-zolotih",name:"Алексей",lastname:"Золотых",position:null,vk:null,telegram:null,twitter:null,slack:null,photo:{file:{url:"//images.ctfassets.net/ej3wzulnf8dw/6PBiLFI3ugGmQwEk6A6m4q/97c63aca66cbef7e7816f803a5dacca5/MfJOV9g8p0Q.jpg"}},company:"Wrike",podcasts:[{title:"#17 — «Как выйти из вима?»",number:17}]},id:29}}}});
+//# sourceMappingURL=path---persons-alexey-zolotih-8d6c5357cf8a63dd527e.js.map
