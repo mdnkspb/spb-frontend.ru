@@ -57,8 +57,8 @@
       "path---podcast-7-759dae0cd679c0eb24c1.js.map"
     ],
     "path---persons-akurganow": [
-      "path---persons-akurganow-a15d1b9e89612921990e.js",
-      "path---persons-akurganow-a15d1b9e89612921990e.js.map"
+      "path---persons-akurganow-d6d02b373366abaf0e03.js",
+      "path---persons-akurganow-d6d02b373366abaf0e03.js.map"
     ],
     "path---": [
       "path----557518bd178906f8d58a.js",
@@ -141,8 +141,8 @@
       "path---podcast-10-4696971661e636ce2453.js.map"
     ],
     "path---persons": [
-      "path---persons-79d91bf2086d4d40d23c.js",
-      "path---persons-79d91bf2086d4d40d23c.js.map"
+      "path---persons-6c9f243f6300a35d0942.js",
+      "path---persons-6c9f243f6300a35d0942.js.map"
     ],
     "path---persons-sergey-lapin": [
       "path---persons-sergey-lapin-2d1b247e149e8f2ef9ca.js",
@@ -177,8 +177,8 @@
       "component---src-pages-404-js-98d33e62ecaea5947486.js.map"
     ],
     "path---persons-mariya-prosvirnina": [
-      "path---persons-mariya-prosvirnina-d29ee1438b328a5cbc0d.js",
-      "path---persons-mariya-prosvirnina-d29ee1438b328a5cbc0d.js.map"
+      "path---persons-mariya-prosvirnina-2a83a455f153a15dd9fd.js",
+      "path---persons-mariya-prosvirnina-2a83a455f153a15dd9fd.js.map"
     ],
     "path---persons-alexey-zolotih": [
       "path---persons-alexey-zolotih-102e4613c3f2e16990b4.js",
@@ -227,9 +227,9 @@
       "component---src-components-podcast-page-index-js-96d8c206445e28a80aa8.js.map"
     ],
     "app": [
-      "app-3884af7a1931f6f5d693.js",
+      "app-fd165031a8b215f93e3d.js",
       "build-js-styles.css",
-      "app-3884af7a1931f6f5d693.js.map",
+      "app-fd165031a8b215f93e3d.js.map",
       "build-js-styles.css.map"
     ],
     "path---persons-alexey-plutalov": [
