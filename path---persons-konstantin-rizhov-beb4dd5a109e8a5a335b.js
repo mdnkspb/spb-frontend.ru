@@ -1,0 +1,2 @@
+webpackJsonp([94299824077543],{447:function(t,n){t.exports={pathContext:{data:{id:"c1UQq6q8yG0Ae6YC6GIWc04",slug:"konstantin-rizhov",name:"Константин",lastname:"Рыжов",position:null,vk:null,telegram:null,twitter:null,slack:"t.doomheim",photo:{file:{url:"//images.ctfassets.net/ej3wzulnf8dw/5kV7M1LhS0yIoGMaqu2w2i/828f24ee32bc77988f1489f4ccf836b6/ieDnnVcoEmQ.jpg"}},company:null,podcasts:[{title:"#7 — «Все фронтендеры попадают в Питер»",number:7}]},id:31}}}});
+//# sourceMappingURL=path---persons-konstantin-rizhov-beb4dd5a109e8a5a335b.js.map

@@ -1,2 +1,0 @@
-webpackJsonp([0xee5d770ae766],{433:function(a,t){a.exports={pathContext:{data:{id:"c2I6UK8U7RCMw2Uqgo6osWU",slug:"alyona-batitskaya",name:"Алена",lastname:"Батицкая",position:null,vk:null,telegram:null,twitter:"ABatickaya",slack:"alenabat",photo:{file:{url:"//images.ctfassets.net/ej3wzulnf8dw/3afKsSJu9aiysSUYC4QEu2/8ff73030feb88e50cc831804e11ecf55/aRWtVguXRzE.jpg"}},company:null,podcasts:[{title:"#15 — «Юные Бобби»",number:15}]},id:15}}}});
-//# sourceMappingURL=path---persons-alyona-batitskaya-fc96062fcce120232e65.js.map

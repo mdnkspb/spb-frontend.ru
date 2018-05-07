@@ -1,0 +1,2 @@
+webpackJsonp([95622922016944],{443:function(e,t){e.exports={pathContext:{data:{id:"c6feZANPNE4GOmUweKkYwqk",slug:"evgeniy-shkodin",name:"Евгений",lastname:"Шкодин",position:null,vk:null,telegram:null,twitter:"iffjey",slack:"iffjey",photo:{file:{url:"//images.ctfassets.net/ej3wzulnf8dw/wwkVmqEXZICS4oig4uiSu/e577f4525a5282cea009e6a7850c815d/O2g8JQHy_400x400.jpg"}},company:"Evil Martians",podcasts:[{title:"#15 — «Юные Бобби»",number:15}]},id:17}}}});
+//# sourceMappingURL=path---persons-evgeniy-shkodin-6c91d2e2bdfd1268a575.js.map
