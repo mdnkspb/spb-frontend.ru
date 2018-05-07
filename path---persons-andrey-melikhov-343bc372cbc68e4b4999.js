@@ -1,0 +1,2 @@
+webpackJsonp([0xba14fb95b9d2],{435:function(e,t){e.exports={pathContext:{data:{id:"c17h5rGa8b4W6KwgCSgi0a4",slug:"andrey-melikhov",name:"Андрей",lastname:"Мелихов",position:null,vk:null,telegram:null,twitter:"amel_true",slack:"amel_true",photo:{file:{url:"//images.ctfassets.net/ej3wzulnf8dw/1ZfOpIMzKoe2sCI8Imcc8S/34b1507fa0ff9b8f9ed063652fc6870c/z_2b5133cf.jpg"}},company:null,podcasts:[{title:"#24 — «Знай свой Джаваскрипт»",number:24}]},id:12}}}});
+//# sourceMappingURL=path---persons-andrey-melikhov-343bc372cbc68e4b4999.js.map
