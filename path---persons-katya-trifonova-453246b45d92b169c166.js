@@ -1,0 +1,2 @@
+webpackJsonp([0xb30b66b0be8e],{447:function(a,t){a.exports={pathContext:{data:{id:"c1hi0P9QP42IICIWcS6IioM",slug:"katya-trifonova",name:"Катя",lastname:"Трифонова",position:"фронтенд-разработчица из _одной финтех-компании_",vk:"trifonova.katia",telegram:"trifonova_katia",twitter:"katiafriday",slack:"katia",photo:{file:{url:"//images.ctfassets.net/ej3wzulnf8dw/74ikduYI24o4UoOCyiWaOU/ab4b538e52aaeec1774eb54bfcc15c30/0101.jpg"}},company:null,podcasts:null},id:34}}}});
+//# sourceMappingURL=path---persons-katya-trifonova-453246b45d92b169c166.js.map
