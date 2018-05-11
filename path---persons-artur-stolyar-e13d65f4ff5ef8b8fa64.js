@@ -1,0 +1,2 @@
+webpackJsonp([0x80c73815a486],{441:function(e,t){e.exports={pathContext:{data:{id:"c2klaUeAUVm8symk6SU4KMS",slug:"artur-stolyar",name:"Артур",lastname:"Столяр",position:null,vk:null,telegram:null,twitter:"nekrtemplar",slack:"nekr",photo:{file:{url:"//images.ctfassets.net/ej3wzulnf8dw/3UnIv16uxa02WgMsIIyUoq/7c7cd7e13e93e8ebe09a3eb527674d24/xijBmvI__400x400.jpg"}},company:null,podcasts:[{title:"#21 — «RN vs PWA»",number:21},{title:"#20 — «Поймать опенсорсера»",number:20}]},id:6}}}});
+//# sourceMappingURL=path---persons-artur-stolyar-e13d65f4ff5ef8b8fa64.js.map

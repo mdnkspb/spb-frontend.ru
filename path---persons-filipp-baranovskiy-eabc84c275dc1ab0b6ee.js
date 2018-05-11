@@ -1,2 +1,0 @@
-webpackJsonp([41569845621138],{448:function(_,l){_.exports={pathContext:{data:{id:"c5zWMZKv8rYuG6QQO2wiwQO",slug:"filipp-baranovskiy",name:"Филипп",lastname:"Барановский",position:null,vk:null,telegram:null,twitter:null,slack:null,photo:{file:{url:"//images.ctfassets.net/ej3wzulnf8dw/3Rr8BKKG0ows62KYugmUKm/74ccd3d84de3953524ebe49ba7c24576/________________________.jpg"}},company:"EPAM",podcasts:[{title:"#27 — «Тимлидерский»",number:27}]},id:0}}}});
-//# sourceMappingURL=path---persons-filipp-baranovskiy-eabc84c275dc1ab0b6ee.js.map
